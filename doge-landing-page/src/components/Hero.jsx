@@ -26,7 +26,7 @@ export default function Hero() {
           >
             <h1 className="text-4xl md:text-6xl font-bold text-amber-900 leading-tight">
               Find Your Perfect <span className="text-amber-600">Furry</span>{" "}
-              Companion abhi abhi abhi abhi 
+              Companion abhi abhi abhi abhi  smart girl hai 
             </h1>
             <p className="text-lg text-amber-800">
               Discover the joy of having a loyal canine friend. Our dogs bring
